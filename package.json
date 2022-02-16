@@ -1,0 +1,25 @@
+{
+  "name": "teamprofilegenerator",
+  "version": "1.0.0",
+  "description": "creates a HTML webpage for a list of employees",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Koilparampil/TeamProfileGenerator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Koilparampil/TeamProfileGenerator/issues"
+  },
+  "homepage": "https://github.com/Koilparampil/TeamProfileGenerator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
