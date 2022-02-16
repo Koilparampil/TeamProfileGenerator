@@ -4,7 +4,3 @@ const Intern  =require("./lib/Intern")
 const Manager =require("./lib/Manager")
 
 
-
-const Johnstopher= new Employee('johnstopher',293874,'mail@mail.com')
-
-console.log(Johnstopher)
