@@ -14,7 +14,10 @@ The motivation for this project was to build a Node.JS command line application 
 ## Installation
 For this Project you had to install two NPM packages, Inquirer and Jest, and you also had to already have Node.JS installed. Too install Inquirer and Jest all you have to do is call `npm i jest` and `npm i inquirer` these commanda have to be runn in the terminal at the file location in which you are running the application. 
 ## Usage
-Using this software is simple. After installing the required dependencies, all you have to do is run `node .\index.js` in the file directory that the code lives in. The Code will guide you in doing the rest. All you have to do is answer the questions that the code will ask you. To exit the code and write the file, you just have to choose the `I don't want to add any more team members` choice when prompted. This will end the code and create your HTML in the ./dist folder.
+Using this software is simple. After installing the required dependencies, all you have to do is run `node .\index.js` in the file directory that the code lives in. The Code will guide you in doing the rest. All you have to do is answer the questions that the code will ask you. To exit the code and write the file, you just have to choose the `I don't want to add any more team members` choice when prompted. This will end the code and create your HTML in the ./dist folder. This is an example of the type of HTML that the code will produce:
+
+![HTML webpage titled “My Team” features 3 boxes listing employee names, titles, and other key info.](./Assets/img/exampleHTML.png)
+
 ## Collaborators
 
 I have to thank the creators of the Jest and Inquirer packages, for whom without, I would not be able to have completed this project in such an efficient manner. I would like to also thank W3Schools for their tutorials on switch statements, it helped me a lot. MDN also deserves recognition for all their documentation on Javascript. 
